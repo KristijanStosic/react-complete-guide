@@ -1,0 +1,3 @@
+Combination of all react concepts merged together in one single app.
+
+Concepts: Components, JSX, Props, State, Refs, Portal and more...
